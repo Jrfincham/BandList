@@ -4,7 +4,7 @@
 
 This is an app that you can use to track bands
 
-### Libraries Used
+### Resources Used
 * HTML
 * CSS
 * JavaScript
